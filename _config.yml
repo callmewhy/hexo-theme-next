@@ -177,10 +177,10 @@ swiftype_key: J2QQHPVLVpZZmkmZhBSf
 baidu_analytics: d4761ad5a08d996a2d7b90d5b1a79395
 
 # Duoshuo ShortName
-duoshuo_shortname: callmewhy
+duoshuo_shortname:
 
 # Disqus
-disqus_shortname: CallMeWhy
+disqus_shortname: callmewhy
 
 # Share
 #jiathis:
