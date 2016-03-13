@@ -182,6 +182,12 @@ duoshuo_shortname:
 # Disqus
 disqus_shortname: callmewhy
 
+# Baidu Share
+# Available value:
+#    button | slide
+#baidushare:
+##  type: button
+
 # Share
 #jiathis:
 #add_this_id:
@@ -196,6 +202,9 @@ disqus_shortname: callmewhy
 
 # Google Analytics
 #google_analytics:
+
+# CNZZ count
+#cnzz_siteid:
 
 
 # Make duoshuo show UA
