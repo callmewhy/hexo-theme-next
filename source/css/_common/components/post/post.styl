@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.post-body {
+  font-family: $font-family-posts;
+  +mobile() {
+    word-break: break-all;
+  }
+}
+
 .post-body .fancybox img {
   display: block !important;
   margin: 0 auto;
