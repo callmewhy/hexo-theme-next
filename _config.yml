@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "iOS,why,blog"
+keywords: "why,blog,博客,汪海的实验室"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -83,7 +83,7 @@ scheme: Muse
 # - Introduce in 5.0.1
 # ---------------------------------------------------------------
 font:
-  enable: true
+  enable: false
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
   host: //fonts.useso.com
