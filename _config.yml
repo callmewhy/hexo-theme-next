@@ -247,7 +247,7 @@ mathjax:
 swiftype_key: J2QQHPVLVpZZmkmZhBSf
 
 # Baidu Analytics ID
-baidu_analytics: d4761ad5a08d996a2d7b90d5b1a79395
+baidu_analytics:
 
 # Duoshuo ShortName
 duoshuo_shortname:
@@ -277,7 +277,7 @@ disqus_shortname: callmewhy
 #google_analytics:
 
 # CNZZ count
-#cnzz_siteid:
+cnzz_siteid: 1260309795
 
 
 # Make duoshuo show UA
