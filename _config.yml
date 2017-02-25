@@ -327,14 +327,14 @@ disqus_shortname: callmewhy
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-92598519-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
 #yandex_site_verification:
 
 # CNZZ count
-cnzz_siteid: 1260309795
+# cnzz_siteid: 1260309795
 
 # Application Insights
 # See https://azure.microsoft.com/en-us/services/application-insights/
