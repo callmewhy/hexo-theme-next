@@ -171,16 +171,6 @@ toc:
 #creative_commons:
 
 
-# links
-links_title: 友情链接
-links:
-  Boolean93: http://ios.dog/
-  Luckymore: http://blog.luckymore.wang/
-  Sheep: http://blog.zyliu.com/
-  Satanwoo: http://satanwoo.github.io/
-  Laker: http://laker.me/blog/
-
-
 sidebar:
   # Sidebar Position, available value: left | right
   position: left
