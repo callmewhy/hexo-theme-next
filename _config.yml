@@ -154,7 +154,7 @@ social_icons:
 # in site  directory(source/uploads): /uploads/avatar.jpg
 #avatar:
 # default : /images/default_avatar.jpg
-avatar: http://tp4.sinaimg.cn/1641167047/180/5691306924/1
+avatar: http://tva2.sinaimg.cn/crop.0.0.399.399.180/61d238c7jw1ef05lfrbplj20b40b4abh.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -206,7 +206,6 @@ links:
   Boolean93: http://ios.dog/
   Luckymore: http://blog.luckymore.wang/
   Sheep: http://blog.zyliu.com/
-  Satanwoo: http://satanwoo.github.io/
   Laker: http://laker.me/blog/
 
 
